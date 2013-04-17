@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/src/com/mekya/interfaces
+END
+ISocketOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/src/com/mekya/interfaces/ISocketOperator.java
+END
+IAppManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/src/com/mekya/interfaces/IAppManager.java
+END
+IUpdateData.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/src/com/mekya/interfaces/IUpdateData.java
+END

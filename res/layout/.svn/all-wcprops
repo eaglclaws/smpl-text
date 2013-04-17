@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/6/trunk/res/layout
+END
+friend_list_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/res/layout/friend_list_screen.xml
+END
+sign_up_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/res/layout/sign_up_screen.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/res/layout/main.xml
+END
+login_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/res/layout/login_screen.xml
+END
+add_new_friend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/res/layout/add_new_friend.xml
+END
+list_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/res/layout/list_screen.xml
+END
+messaging_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/res/layout/messaging_screen.xml
+END
+local_service_controller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/res/layout/local_service_controller.xml
+END
+notes_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/res/layout/notes_row.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7/trunk/src/com/mekya
+END
+AddFriend.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/src/com/mekya/AddFriend.java
+END
+R.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/7/trunk/src/com/mekya/R.java
+END
+FriendList.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/src/com/mekya/FriendList.java
+END
+SignUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/src/com/mekya/SignUp.java
+END
+UnApprovedFriendList.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/src/com/mekya/UnApprovedFriendList.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/src/com/mekya/Login.java
+END
+Messaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/src/com/mekya/Messaging.java
+END
